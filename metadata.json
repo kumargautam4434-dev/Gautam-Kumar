@@ -1,0 +1,6 @@
+{
+  "name": "Coin Collector",
+  "description": "An exciting 2D browser game in which players collect coins under a 60-second limit with particle effects, local high scores, sound, and incremental difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
